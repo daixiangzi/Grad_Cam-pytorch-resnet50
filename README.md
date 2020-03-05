@@ -11,10 +11,10 @@ cuda 10.0
 ## Dataset  
 Dog and Cat  
 [link](https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip)  
-[Pre_model](https://pan.baidu.com/s/1nUE9_5fVXqRcp-mhDx6KKw) code:0uqz  
+[Pre_model](https://pan.baidu.com/s/1nUE9_5fVXqRcp-mhDx6KKw) `Extraction code`:0uqz    
 # Usage
 ## train model
-```bash
+```python
 python3 run.py
 ```
 ## generate grad_cam image  
