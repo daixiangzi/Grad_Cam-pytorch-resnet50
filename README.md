@@ -10,7 +10,7 @@ cuda 10.0
 ```
 ## Dataset  
 Dog and Cat  
-[download link](https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip)  
+[Dataset download link](https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip)  
 [Pre_model link](https://pan.baidu.com/s/1nUE9_5fVXqRcp-mhDx6KKw) `Extraction code`:0uqz    
 # Usage
 ## train model
