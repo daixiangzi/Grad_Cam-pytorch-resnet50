@@ -22,7 +22,7 @@ class Grad_Cam:
         self.target = target_layer_names
         self.use_cuda = use_cuda
         self.grad_val = []
-        self.feature = []
+        self.feature = [] #feature dim is same as grad_val
         self.hook = []
         self.img = []
         self.inputs = None
